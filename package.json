@@ -1,0 +1,17 @@
+{
+  "name": "xml-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js"
+  },
+  "author": "Allen Welch",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^3.12.13",
+    "inquirer": "^6.2.2",
+    "json2csv": "^4.3.5"
+  }
+}
